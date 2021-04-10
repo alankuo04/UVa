@@ -8,6 +8,7 @@
 |★★☆☆☆|[10127](https://github.com/alankuo04/UVa/tree/main/10127)|
 |★★★☆☆|[10179](https://github.com/alankuo04/UVa/tree/main/10179)|
 |★★☆☆☆|[10195](https://github.com/alankuo04/UVa/tree/main/10195)|
+|★★★☆☆|[10201](https://github.com/alankuo04/UVa/tree/main/10201)|
 |★★★☆☆|[10246](https://github.com/alankuo04/UVa/tree/main/10246)|
 |★☆☆☆☆|[10323](https://github.com/alankuo04/UVa/tree/main/10323)|
 |★★☆☆☆|[10360](https://github.com/alankuo04/UVa/tree/main/10360)|

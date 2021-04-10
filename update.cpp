@@ -26,3 +26,5 @@ int main(){
     file.close();
     return 0;
 }
+
+// ls -n [0-9]* | sort | .\update.exe
