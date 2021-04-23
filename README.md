@@ -26,5 +26,6 @@
 |★★★☆☆|[12034](https://github.com/alankuo04/UVa/tree/main/12034)|
 |★★★☆☆|[122](https://github.com/alankuo04/UVa/tree/main/122)|
 |★☆☆☆☆|[12403](https://github.com/alankuo04/UVa/tree/main/12403)|
+|★★★☆☆|[12544](https://github.com/alankuo04/UVa/tree/main/12544)|
 |★★☆☆☆|[1644](https://github.com/alankuo04/UVa/tree/main/1644)|
 |★★★☆☆|[1730](https://github.com/alankuo04/UVa/tree/main/1730)|

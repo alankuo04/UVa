@@ -27,4 +27,4 @@ int main(){
     return 0;
 }
 
-// ls -n [0-9]* | sort | .\update.exe
+// ls -n "[0-9]*" | sort | .\update.exe
