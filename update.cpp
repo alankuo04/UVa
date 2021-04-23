@@ -20,7 +20,7 @@ int main(){
             cout<<"Unknown problem number."<<endl;
         else{
             string stars[6] = {"☆☆☆☆☆","★☆☆☆☆","★★☆☆☆","★★★☆☆","★★★★☆","★★★★"};
-            file<<"|"<<stars[stoi(star_list[s])]<<"|["<<s<<"](https://github.com/alankuo04/UVa/tree/main/"<<s<<")|["<<s<<"題目](https://onlinejudge.org/external/"<<s.substr(0,3)<<"/"<<s<<".pdf)"<<endl;
+            file<<"|"<<stars[stoi(star_list[s])]<<"|["<<s<<"](https://github.com/alankuo04/UVa/tree/main/"<<s<<")|["<<s<<"題目](https://onlinejudge.org/external/"<<stoi(s)/100<<"/"<<s<<".pdf)"<<endl;
         }
     }
     file.close();
