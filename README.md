@@ -13,6 +13,7 @@
 |★☆☆☆☆|[10323](https://github.com/alankuo04/UVa/tree/main/10323)|[10323題目](https://onlinejudge.org/external/103/10323.pdf)
 |★★☆☆☆|[10360](https://github.com/alankuo04/UVa/tree/main/10360)|[10360題目](https://onlinejudge.org/external/103/10360.pdf)
 |★★★☆☆|[10482](https://github.com/alankuo04/UVa/tree/main/10482)|[10482題目](https://onlinejudge.org/external/104/10482.pdf)
+|★★★☆☆|[10533](https://github.com/alankuo04/UVa/tree/main/10533)|[10533題目](https://onlinejudge.org/external/105/10533.pdf)
 |★★★☆☆|[10539](https://github.com/alankuo04/UVa/tree/main/10539)|[10539題目](https://onlinejudge.org/external/105/10539.pdf)
 |★★☆☆☆|[10700](https://github.com/alankuo04/UVa/tree/main/10700)|[10700題目](https://onlinejudge.org/external/107/10700.pdf)
 |★★☆☆☆|[10938](https://github.com/alankuo04/UVa/tree/main/10938)|[10938題目](https://onlinejudge.org/external/109/10938.pdf)
